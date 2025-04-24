@@ -1,4 +1,4 @@
 function getQuote() {
-  return "The only limit is your mind.";
+  return "It all depends on how bad you want it.";
 }
 module.exports = getQuote;
